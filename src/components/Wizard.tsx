@@ -384,7 +384,7 @@ export const Wizard: React.FC<WizardProps> = ({ onClose }) => {
 
                 <p className="text-on-surface-variant text-sm mt-8">
                   <strong className="text-on-surface">{specialist.name}</strong> will contact you shortly
-                  at <strong className="text-on-surface">{specialist.phone}</strong> and <strong className="text-on-surface">{specialist.email}</strong>.
+                  at <strong className="text-on-surface">{formData.phone}</strong> or <strong className="text-on-surface">{formData.email}</strong>.
                 </p>
 
                 <button
