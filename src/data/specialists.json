@@ -1,0 +1,81 @@
+{
+  "specialists": [
+    {
+      "type": "va",
+      "name": "Michael Torres",
+      "title": "VA Loan Specialist",
+      "email": "michael.torres@lpt.com",
+      "phone": "(512) 555-0147",
+      "image": "https://images.pexels.com/photos/8293749/pexels-photo-8293749.jpeg",
+      "description": "Experienced in helping veterans and active-duty buyers navigate VA loans and benefits.",
+      "experience": "50+ VA Real Estate transactions",
+      "recentActivity": "Closed 8 VA deals in the last 90 days"
+    },
+    {
+      "type": "probate",
+      "name": "Sarah Mitchell",
+      "title": "Probate Real Estate Transaction Specialist",
+      "email": "sarah.mitchell@lpt.com",
+      "phone": "(512) 555-0238",
+      "image": "https://images.pexels.com/photos/7414903/pexels-photo-7414903.jpeg",
+      "description": "Specializes in inherited properties and probate sales with court processes.",
+      "experience": "30+ probate Real Estate transactions",
+      "recentActivity": "Handled 5 probate sales recently"
+    },
+    {
+      "type": "divorce",
+      "name": "David Chen",
+      "title": "Divorce Transaction Specialist",
+      "email": "david.chen@lpt.com",
+      "phone": "(512) 555-0319",
+      "image": "https://images.pexels.com/photos/7641840/pexels-photo-7641840.jpeg",
+      "description": "Experienced in handling property sales during divorce and complex ownership situations.",
+      "experience": "25+ divorce-related Real Estate transactions",
+      "recentActivity": "Managed multiple joint-sale cases this quarter"
+    },
+    {
+      "type": "investment",
+      "name": "Jessica Alvarez",
+      "title": "Investor-Friendly Agent",
+      "email": "jessica.alvarez@lpt.com",
+      "phone": "(512) 555-0425",
+      "image": "https://images.pexels.com/photos/12932676/pexels-photo-12932676.jpeg",
+      "description": "Works with investors on fix & flip and rental property deals.",
+      "experience": "100+ Real Estate investment transactions",
+      "recentActivity": "Active with off-market and distressed deals"
+    },
+    {
+      "type": "first_time",
+      "name": "Kevin Patel",
+      "title": "First-Time Buyer Specialist",
+      "email": "kevin.patel@lpt.com",
+      "phone": "(512) 555-0531",
+      "image": "https://images.pexels.com/photos/8482517/pexels-photo-8482517.jpeg",
+      "description": "Helps new buyers navigate financing, grants, and the homebuying process.",
+      "experience": "80+ first-time buyer Real Estate transactions",
+      "recentActivity": "Closed multiple entry-level purchases recently"
+    },
+    {
+      "type": "relocating",
+      "name": "Emily Rodriguez",
+      "title": "Relocation Specialist",
+      "email": "emily.rodriguez@lpt.com",
+      "phone": "(512) 555-0642",
+      "image": "https://images.pexels.com/photos/8730042/pexels-photo-8730042.jpeg",
+      "description": "Assists buyers and sellers moving to a new city or state.",
+      "experience": "60+ relocation Real Estate transactions",
+      "recentActivity": "Helping clients move into new markets"
+    },
+    {
+      "type": "general",
+      "name": "Jacob Morrison",
+      "title": "Real Estate Agent",
+      "email": "jacob.morrison@lpt.com",
+      "phone": "(512) 555-0753",
+      "image": "https://images.pexels.com/photos/8482529/pexels-photo-8482529.jpeg",
+      "description": "Experienced agent for standard buying and selling needs.",
+      "experience": "200+ Real Estate transactions",
+      "recentActivity": "Active across multiple property types"
+    }
+  ]
+}
